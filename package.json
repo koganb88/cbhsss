@@ -1,0 +1,23 @@
+{
+  "name": "cbhsss",
+  "version": "1.0.0",
+  "description": "Probando como subir una branch independiente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koganb88/cbhsss.git"
+  },
+  "keywords": [
+    "cbh",
+    "develop"
+  ],
+  "author": "koganb88 <bladimirpj860@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koganb88/cbhsss/issues"
+  },
+  "homepage": "https://github.com/koganb88/cbhsss#readme"
+}
